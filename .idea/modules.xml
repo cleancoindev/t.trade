@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MagicPrint.iml" filepath="$PROJECT_DIR$/MagicPrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tComm.iml" filepath="$PROJECT_DIR$/tComm.iml" group="tComm" />
+      <module fileurl="file://$PROJECT_DIR$/app/tComm-app.iml" filepath="$PROJECT_DIR$/app/tComm-app.iml" group="tComm/app" />
+    </modules>
+  </component>
+</project>
